@@ -550,7 +550,9 @@ a{color:var(--gold);text-decoration:none}
 }
 
 
-
+.fontsz-4{
+   font-size: 4rem !important;
+}
 
 .blackbg{
   background-color:#E4B33C !important;
